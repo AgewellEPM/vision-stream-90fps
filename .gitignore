@@ -1,0 +1,4 @@
+claude_vision_stream/
+*.pyc
+__pycache__/
+.DS_Store
